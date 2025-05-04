@@ -1,4 +1,6 @@
-## Hi there 👋
+![C80DBB7F-5844-44D1-B569-891DE4134B1E_1_105_c](https://github.com/user-attachments/assets/0a0a0e59-70f1-4233-aa28-08afbb485fd3)
+
+
 
 <!--
 **victoriaagustinaperez/victoriaagustinaperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
